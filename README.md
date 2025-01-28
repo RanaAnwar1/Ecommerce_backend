@@ -137,26 +137,14 @@ A robust backend API built with Node.js/Express.js and MongoDB, following the Mo
 
 1. **Clone Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RanaAnwar1/Ecommerce_backend.git
    ```
 
 2. **Install Dependencies**
    ```bash
    npm install
    ```
-
-3. **Environment Setup**
+3. **Start Development Server**
    ```bash
-   # Create .env file
-   cp .env.example .env
-   # Configure your environment variables
+   npm start
    ```
-
-4. **Start Development Server**
-   ```bash
-   npm run dev
-   ```
-
-## License
-
-[MIT License](LICENSE)
